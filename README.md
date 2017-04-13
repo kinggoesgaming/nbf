@@ -5,7 +5,7 @@ Node Based Format is a Serialization and Deserialization library.
 
 [Documentation](https://docs.rs/nbf/0.1.0/nbf/)
 
-## Usage
+# Usage
 
 Add this to your `Cargo.toml`:
 
