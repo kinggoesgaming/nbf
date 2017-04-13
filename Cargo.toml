@@ -1,0 +1,12 @@
+[package]
+authors = [
+  "Hunar Roop Kahlon <hunar.roop@gmail.com>"
+]
+description = "Node Based Format (nbf) is a generic serialization library."
+license = "MIT"
+name = "nbf"
+readme = "README.md"
+repository = "https://github.com/kinggoesgaming/nbf"
+homepage = "https://github.com/kinggoesgaming/nbf"
+documentation = "https://docs.rs/nbf/0.1.0/nbf/"
+version = "0.1.0"
