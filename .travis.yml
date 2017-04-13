@@ -1,4 +1,13 @@
+cache:
+  directories:
+    - target/debug/fingerprint
+    - target/debug/deps
+
 language: rust
+
+matrix:
+  allow_failures:
+    - rust: nightly
 
 notifications:
   email:
