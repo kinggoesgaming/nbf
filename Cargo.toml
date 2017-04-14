@@ -10,3 +10,9 @@ repository = "https://github.com/kinggoesgaming/nbf"
 homepage = "https://github.com/kinggoesgaming/nbf"
 documentation = "https://docs.rs/nbf/0.1.0/nbf/"
 version = "0.1.0"
+
+[badges.appveyor]
+repository = "kinggoesgaming/nbf"
+
+[badges.travis-ci]
+repository = "kinggoesgaming/nbf"
