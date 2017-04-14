@@ -13,13 +13,19 @@ notifications:
   email:
     on_success: never
 
+os:
+  - linux
+  - osx
+
 rust:
   - 1.0.0
   - stable
   - beta
   - nightly
-sudo: false
+
 script:
   - cargo build --verbose
   - cargo test --verbose
   - cargo doc --no-deps
+
+  sudo: false
